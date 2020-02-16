@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/static/js/main.465d2738.chunk.js",
-    "main.js.map": "/static/js/main.465d2738.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.1a2241e0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.1a2241e0.js.map",
-    "static/js/2.2291d6e4.chunk.js": "/static/js/2.2291d6e4.chunk.js",
-    "static/js/2.2291d6e4.chunk.js.map": "/static/js/2.2291d6e4.chunk.js.map",
-    "static/js/3.d199b9ab.chunk.js": "/static/js/3.d199b9ab.chunk.js",
-    "static/js/3.d199b9ab.chunk.js.map": "/static/js/3.d199b9ab.chunk.js.map",
-    "burnerconnect-bridge.html": "/burnerconnect-bridge.html",
-    "burnerconnect-login.html": "/burnerconnect-login.html",
-    "burnerprovider.js": "/burnerprovider.js",
-    "burnerprovider.js.map": "/burnerprovider.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dc028aed08e13767a4e801e2f3a508e4.js": "/precache-manifest.dc028aed08e13767a4e801e2f3a508e4.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/wallet-of-good/static/js/main.8dd1c17b.chunk.js",
+    "main.js.map": "/wallet-of-good/static/js/main.8dd1c17b.chunk.js.map",
+    "runtime-main.js": "/wallet-of-good/static/js/runtime-main.62921141.js",
+    "runtime-main.js.map": "/wallet-of-good/static/js/runtime-main.62921141.js.map",
+    "static/js/2.b2d495e6.chunk.js": "/wallet-of-good/static/js/2.b2d495e6.chunk.js",
+    "static/js/2.b2d495e6.chunk.js.map": "/wallet-of-good/static/js/2.b2d495e6.chunk.js.map",
+    "static/js/3.d199b9ab.chunk.js": "/wallet-of-good/static/js/3.d199b9ab.chunk.js",
+    "static/js/3.d199b9ab.chunk.js.map": "/wallet-of-good/static/js/3.d199b9ab.chunk.js.map",
+    "burnerconnect-bridge.html": "/wallet-of-good/burnerconnect-bridge.html",
+    "burnerconnect-login.html": "/wallet-of-good/burnerconnect-login.html",
+    "burnerprovider.js": "/wallet-of-good/burnerprovider.js",
+    "burnerprovider.js.map": "/wallet-of-good/burnerprovider.js.map",
+    "index.html": "/wallet-of-good/index.html",
+    "precache-manifest.650fccbeee5077eb0fc01d07c6ff0176.js": "/wallet-of-good/precache-manifest.650fccbeee5077eb0fc01d07c6ff0176.js",
+    "service-worker.js": "/wallet-of-good/service-worker.js"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a2241e0.js",
-    "static/js/2.2291d6e4.chunk.js",
-    "static/js/main.465d2738.chunk.js"
+    "static/js/runtime-main.62921141.js",
+    "static/js/2.b2d495e6.chunk.js",
+    "static/js/main.8dd1c17b.chunk.js"
   ]
 }
